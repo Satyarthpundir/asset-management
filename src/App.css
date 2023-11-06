@@ -55,13 +55,13 @@
 }
 
 .report-table th, .report-table td {
-  border: 1px solid #303030; /* Adjust the style and color as needed */
+  border: 1px solid #303030; 
   padding: 8px;
   text-align: left;
 }
 
 .report-table th {
-  background-color: #f2f2f2; /* Add a background color for header cells if desired */
+  background-color: #f2f2f2; 
 }
 .btn-div{
   display: flex;
